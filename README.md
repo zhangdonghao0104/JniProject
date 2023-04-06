@@ -1,2 +1,0 @@
-# JniProject
-JNI
